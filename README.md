@@ -1,3 +1,3 @@
-# dwill629.github.io Homework 2 My personal site
+# dwill629.github.io Homework 1 My personal site
 
 
