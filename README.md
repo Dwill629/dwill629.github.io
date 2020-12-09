@@ -3,31 +3,29 @@
 
 This project is a personal portfolio that allows the audience to view a responsive and working application accross a veriety of devices and different screen sizes using css and bootstrap.
 
-My personal portfolio gives introduction to me and my journey as a web dev. A glimpse into completed projects that I have worked on personally and a page where I can be contacted. 
+My personal portfolio gives an introduction to me and my journey as a web dev. A glimpse into completed projects that I have worked on personally and a page containing my contact information. 
 
 
 
-index img
+![index-img](images/index-img.png)
 
-portfolio img
 
-contact img
+![portfolio-img](images/portfolio-img.png)
 
-Contact
+
+![contacts-img](images/contacts-img.png)
+
+
+# Contact
 If you want to contact me you can reach me at dwill629@gmail.com.
 
-License
-This project uses the following license: <Devon_Williams>.
+
+# Tech/framework used
+Vscode
 
 
 
-
-
-
-
-See the project directions below.
-
-## Directions
+## See the project Directions below
 
 First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
 
