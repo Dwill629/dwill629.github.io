@@ -25,7 +25,7 @@ This project uses the following license: <Devon_Williams>.
 
 
 
-See the directions seen below.
+See the project directions below.
 
 ## Directions
 
