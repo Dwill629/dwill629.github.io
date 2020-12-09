@@ -1,7 +1,31 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
+This project is a personal portfolio that allows the audience to view a responsive and working application accross a veriety of devices and different screen sizes using css and bootstrap.
+
+My personal portfolio gives introduction to me and my journey as a web dev. A glimpse into completed projects that I have worked on personally and a page where I can be contacted. 
+
+
+
+index img
+
+portfolio img
+
+contact img
+
+Contact
+If you want to contact me you can reach me at dwill629@gmail.com.
+
+License
+This project uses the following license: <Devon_Williams>.
+
+
+
+
+
+
+
+See the directions seen below.
 
 ## Directions
 
