@@ -15,6 +15,7 @@ body {
   /***Float the img contained in the <section> to have the words wrap around it**/
   #about-me-img {
     float: left;
+    border: none;
   }
 
   .navbar {
